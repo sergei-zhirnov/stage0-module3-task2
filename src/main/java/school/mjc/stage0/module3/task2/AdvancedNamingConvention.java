@@ -4,13 +4,13 @@ public class AdvancedNamingConvention {
     private static final int ADULT_AGE = 18;
 
     private int age;
-    private int phoneNumber;
+    private int number;
 
     void callToFriend() {
         //some code
     }
 
-    void callByNumber(int phoneNumber) {
+    void callByNumber(int number) {
         //some code
     }
 }
